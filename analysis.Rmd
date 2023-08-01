@@ -6,7 +6,8 @@ output: html_document
 ---
 
 ```{r}
-library(tidyverse)
+library(dplyr)
+library(ggplot2)
 ```
 
 
